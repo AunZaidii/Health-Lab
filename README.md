@@ -2,8 +2,6 @@
 
 A comprehensive healthcare management system designed to streamline patient records, appointments, and medical data.
 
-![Project Preview](https://via.placeholder.com/800x400?text=Health-Lab+Preview) <!-- Replace with actual screenshot -->
-
 ## 🌟 Features
 
 - **Patient Management**: Add, view, and update patient records
